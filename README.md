@@ -56,10 +56,10 @@ Software – Quartus prime
 ![Code_RTL](https://github.com/Anas536/Experiment--02-Implementation-of-combinational-logic-/assets/139841834/3b9daf74-48d8-4f7c-9c3b-18305caeece7)
 
 ## Truth table:
-![Truth_table](https://github.com/Anas536/Experiment--02-Implementation-of-combinational-logic-/assets/139841834/86d86079-7c94-47c4-a3fd-a2f20d2eb1b1)
+![Truth Table](https://github.com/Anas536/Experiment--02-Implementation-of-combinational-logic-/assets/139841834/a0a15141-19ea-4f68-9251-26b28ec85cda)
 
 ## Output waveform:
 ![Waveform](https://github.com/Anas536/Experiment--02-Implementation-of-combinational-logic-/assets/139841834/b565d129-f8de-4d1d-b13f-7baa11248a7f)
 
 ## Result:
-Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
+Thus the given logic function are implemented using AND,OR,NOT,NAND and their operations are verified using Verilog programming.
